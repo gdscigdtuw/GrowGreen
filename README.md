@@ -1,9 +1,9 @@
 ## GrowGreen
 
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
+![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/GrowGreen)
+![Twitter](https://img.shields.io/twitter/url?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
+![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
 
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
@@ -70,20 +70,37 @@ To contribute to <project_name>, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
+## Project Admins
 
 * [@Sakshi](https://github.com/Sakshi-25) 📖
 * [@Diksha Rajput](https://github.com/Diksha8448) 🐛
 * [@Riya Suntwal](https://github.com/carrisunrio) 🐛
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 ## Code of Conduct :
 Hacktober is just the part right ? Our main motive is not that ENVIRONMENT FIRST 🎀🌟.
 
 ## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: 
+MIT License
+
+Copyright (c) [2020] [GrowGreen]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
