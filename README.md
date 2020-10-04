@@ -5,6 +5,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
 ![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
 
+![Grow Green](/images/Grow Green.jpeg)
+
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
 ## About GrowGreen
