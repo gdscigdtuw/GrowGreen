@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
 
 <p align="center">
-  <img src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/Grow%20Green.jpeg" width="70%">
+  <img src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/Grow%20Green.jpeg" width="50%">
  </p>
  
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
@@ -51,6 +51,10 @@ Windows:
 ```
 
 ## SITE MAP :
+
+<p align="center">
+  <img src="https://github.com/dscigdtuw/GrowGreen/blob/Sakshi-patches-to-readme/images/site-map-diagram.png" width="100%">
+ </p>
 
 ## Using <project_name>
 
