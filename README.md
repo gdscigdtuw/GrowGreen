@@ -28,12 +28,14 @@ Each user will have personal alarms & reminders. Daily reminders to water plants
 After this we can also include a panel for soil testing through 'Machine Learning and Data Mining'. 
 Farmers can get direct digital reports from testing labs including some suggestions to improve their farms quality and quantity. 
 
-## Vision
+## Objective
 
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
-## Objective:
-Help the Environment heal.❤ 
+## Vision
+Let the citizens exploit less and give back more. 
+Help the Environment heal.❤
+Making Eco-friendly a new trend. 
 
 ## Tools Used:
 
