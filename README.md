@@ -1,40 +1,42 @@
 ## GrowGreen
 
 ![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/GrowGreen)
-![Twitter](https://img.shields.io/twitter/url?style=social)
+![Twitter](https://img.shields.io/twitter/url?label=Follow%20on%20Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDSCIgdtuw%3Fs%3D09)
 ![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
 ![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
 
 <p align="center">
-  <img src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/Grow%20Green.jpeg" width="50%">
+  <img src="https://github.com/dscigdtuw/GrowGreen/blob/Sakshi-patches-to-readme/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo%20(1).png" width="50%">
  </p>
  
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
 ## About GrowGreen
 
-✅We will make an Eco website or Web App(preferred) that can find nearest nursery, plant shop, organic shop etc like everything related to planting and agriculture, small scale or big scale.
+✅An Eco Web App that can find nearest nursery, plant shop, organic shop etc and everything related to planting and agriculture. This way it will support small scale or big scale organic businesses.
 
-✅It will have a panel of Blogs and posts for these topics.People can post their efforts towards Environment. 
+✅Panel: Blogs for posts. Users can post their efforts towards Environment. Features for each post : Like, Share, Comment. 
+Each user will have personal alarms & reminders. Daily reminders to water plants & monthly reminders to sow seeds/ cutting. 
 
-✅We will include personal reminders(alarm) for contributing towards Environment. For example, daily reminders to water the plants or monthly reminders to sow seeds.etc
+✅A single Web App having all features to contribute towards Environment & let small scale agricultural businesses earn and grow. 
 
-✅I've seen there is no website or app as such.which have all the features. 
+✅To this we can also add giving virtual rewards/ coins, having value in real currency. 
 
-✅To this we can also add giving virtual rewards like coins, from which they can buy plants or help plant one ( anything similar). Rewards to those who post any contribution with a selfie increasing the community bonding for the love of environment.
+✅This increases the community bonding for nature loving communities. 
 
-✅(Future scope for this website) 
-After this we can also include a panel for soil testing and all.. that can include ML/Data Mining.
+## Future scope for this website
+After this we can also include a panel for soil testing through 'Machine Learning and Data Mining'. 
+Farmers can get direct digital reports from testing labs including some suggestions to improve their farms quality and quantity. 
 
 ## Vision
 
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
 ## Objective:
-
-Help the Environment that heals us.❤
+Help the Environment heal.❤ 
 
 ## Tools Used:
+
 
 ## Installing <project_name>
 
