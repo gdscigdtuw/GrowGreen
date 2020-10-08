@@ -35,6 +35,15 @@ Make everyone aware enough to make them decide amongst what is right and wrong f
 ## Objective:
 Help the Environment heal.❤ 
 
+## Themes for the UI
+The UI themes will change according to season.
+Themes for UI :
+Winter
+Summer
+Autumn
+Spring
+Monsoon
+
 ## Tools Used:
 
 
