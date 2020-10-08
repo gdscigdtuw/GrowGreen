@@ -33,7 +33,8 @@ Farmers can get direct digital reports from testing labs including some suggesti
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
 ## Objective:
-Help the Environment heal.❤ 
+Make everyone aware enough to make them decide amongst what is right and wrong for the Environment. 
+Help agricultural businesses grow and communicate.
 
 ## Tools Used:
 
