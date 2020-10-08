@@ -1,4 +1,6 @@
-## GrowGreen
+# GrowGreen
+`Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
+
 
 ![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/GrowGreen)
 ![Twitter](https://img.shields.io/twitter/url?label=Follow%20on%20Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDSCIgdtuw%3Fs%3D09)
@@ -8,8 +10,6 @@
 <p align="center">
   <img src="https://github.com/dscigdtuw/GrowGreen/blob/Sakshi-patches-to-readme/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo%20(1).png" width="50%">
  </p>
- 
-`Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
 ## About GrowGreen
 
@@ -33,10 +33,10 @@ Farmers can get direct digital reports from testing labs including some suggesti
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
 ## Objective:
-Help the Environment heal.❤ 
+Help the Environment heal itself.❤ 
 
 ## Tools Used:
-
+Tools used to make Web App:-
 
 ## Installing <project_name>
 
@@ -82,13 +82,15 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Project Admins
 
-* [@Sakshi](https://github.com/Sakshi-25) 📖
-* [@Diksha Rajput](https://github.com/Diksha8448) 🐛
-* [@Riya Suntwal](https://github.com/carrisunrio) 🐛
+* 💜[@Sakshi Jangra](https://github.com/Sakshi-25) 
+* 💜[@Diksha Rajput](https://github.com/Diksha8448) 
+* 💜[@Riya Suntwal](https://github.com/carrisunrio) 
+* 💜[@Shivangi Sahay](https://github.com/shivangisahay14) 
 
+Note: We will add on more info according to the advancement of the project.
 
 ## Code of Conduct :
-Hacktober is just the part right ? Our main motive is not that ENVIRONMENT FIRST 🎀🌟.
+ENVIRONMENT FIRST 🎀🌟.
 
 ## License
 
