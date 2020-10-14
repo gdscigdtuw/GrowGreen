@@ -1,13 +1,15 @@
 # GrowGreen
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
-
-![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/GrowGreen)
-![Twitter](https://img.shields.io/twitter/url?label=Follow%20on%20Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDSCIgdtuw%3Fs%3D09)
-![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
-![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
-
-Project Video ![YouTube](https://img.shields.io/youtube/views/fClmoikqrOA?label=YouTube&style=social)
+<p align="right">
+  <a href="https://github.com/dscigdtuw/GrowGreen/issues"><img src="https://img.shields.io/github/issues/dscigdtuw/GrowGreen?color=orange&logo=github&style=flat" title="Issues"></a>
+  <a href="https://github.com/dscigdtuw/GrowGreen/"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dscigdtuw/GrowGreen?color=green&logo=github&style=flat" title="Fork selected branch"></a>
+  <a href="https://github.com/dscigdtuw/GrowGreen/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/dscigdtuw?color=seagreen&logo=github&style=flat" title="Stars on GrowGreen"></a>
+  <a href="https://github.com/dscigdtuw/GrowGreen/"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/dscigdtuw/GrowGreen?color=green&label=watchers" title="Watchers on GrowGreen"></a>
+  <br>
+  <a href="https://twitter.com/dscigdtuw?lang=en"><img src="https://img.shields.io/twitter/follow/dscigdtuw?label=%40dscigdtuw&style=social"></a>
+  <a href="https://www.youtube.com/watch?v=fClmoikqrOA"><img src="https://img.shields.io/youtube/views/fClmoikqrOA?label=YouTube&style=social"></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/dscigdtuw/GrowGreen/blob/Sakshi-patches-to-readme/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo%20(1).png" width="50%">
@@ -26,26 +28,17 @@ Each user will have personal alarms & reminders. Daily reminders to water plants
 
 ✅This increases the community bonding for nature loving communities. 
 
-The UI themes will change according to season.
-Themes for UI :
-Winter
-Summer
-Autumn
-Spring
-Monsoon
-
 ## Future scope for this website
 After this we can also include a panel for soil testing through 'Machine Learning and Data Mining'. 
 Farmers can get direct digital reports from testing labs including some suggestions to improve their farms quality and quantity. 
 
 ## Vision
-
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
 ## Objective:
-Help the Environment heal itself.❤ 
+Help the Environment heal through our small efforts.❤ 
 
-## Themes for the UI
+## Themes for the UI 
 The UI themes will change according to season.
 Themes for UI :
 Winter
@@ -109,7 +102,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 Note: We will add on more info according to the advancement of the project.
 
 ## Code of Conduct :
-ENVIRONMENT FIRST 🎀🌟.
+ENVIRONMENT FIRST 🎀🌟
 
 ## License
 
