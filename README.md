@@ -1,7 +1,7 @@
 # GrowGreen
 `Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
-<p align="centre">
+<p align="center">
   <a href="https://github.com/dscigdtuw/GrowGreen/issues"><img src="https://img.shields.io/github/issues/dscigdtuw/GrowGreen?color=orange&logo=github&style=flat" title="Issues"></a>
   <a href="https://github.com/dscigdtuw/GrowGreen/"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dscigdtuw/GrowGreen?color=green&logo=github&style=flat" title="Fork selected branch"></a>
   <a href="https://github.com/dscigdtuw/GrowGreen/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/dscigdtuw?color=seagreen&logo=github&style=flat" title="Stars on GrowGreen"></a>
