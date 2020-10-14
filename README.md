@@ -7,6 +7,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
 ![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
 
+Project Video ![YouTube](https://img.shields.io/youtube/views/fClmoikqrOA?label=YouTube&style=social)
+
 <p align="center">
   <img src="https://github.com/dscigdtuw/GrowGreen/blob/Sakshi-patches-to-readme/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo%20(1).png" width="50%">
  </p>
