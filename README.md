@@ -50,6 +50,11 @@ Monsoon
 ## Tools Used:
 Tools used to make Web App:-
 
+- [] React.js
+- [] CSS
+- [] JavaScript
+
+
 ## Installing <project_name>
 
 To install <project_name>, follow these steps:
