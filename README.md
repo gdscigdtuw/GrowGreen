@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./images//Green Simple Illustrated Leaf Environment Logo.png" width="100%">
+  <img src="./images//Green Simple Illustrated Leaf Environment Logo.png" width="50%">
  </p>
 
 ## How to start the Development Server
@@ -115,10 +115,11 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Project Admins
 
-- 💜[@Sakshi Jangra](https://github.com/Sakshi-25)
-- 💜[@Diksha Rajput](https://github.com/Diksha8448)
-- 💜[@Riya Suntwal](https://github.com/carrisunrio)
-- 💜[@Shivangi Sahay](https://github.com/shivangisahay14)
+- [@Sakshi Jangra](https://github.com/Sakshi-25)
+- [@Diksha Rajput](https://github.com/Diksha8448)
+- [@Riya Suntwal](https://github.com/carrisunrio)
+- [@Shivangi Sahay](https://github.com/shivangisahay14)
+- [@Aarush Goyal](https://github.com/Aarush-Goyal)
 
 Note: We will add on more info according to the advancement of the project.
 
