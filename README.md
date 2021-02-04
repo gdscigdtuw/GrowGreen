@@ -59,13 +59,11 @@ Autumn
 Spring
 Monsoon
 
-## Tools Used:
+## Tools/Tech Stack Used:
 
-Tools used to make Web App:-
-
-- [] React.js
-- [] CSS
-- [] JavaScript
+- React.js
+- CSS
+- JavaScript
 
 ## Installing <project_name>
 
