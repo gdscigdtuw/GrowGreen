@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { Box, Flex, Text } from "@chakra-ui/react";
+import { Flex, Text } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react"
 const Home = () => {
   const [name, setName] = useState("Be a Dendrophile");
   useEffect(() => {
@@ -16,15 +17,17 @@ const Home = () => {
         width="100%"
         align="center"
         justify="center"
-        color="white"
+        bg = "#426752"
+        color="#80D934"
       >
-        <Box>
-        backgroundImage="url('..../images/bgimg')
-        backgroundPosition="center"
-        backgroundRepeat="no-repeat"
-        </Box>
         <Text fontSize="3xl">{name}</Text>
       </Flex>
+      <Box
+          bgImage="url(https://github.com/dscigdtuw/GrowGreen/blob/main/images/bgimg.jpg?raw=true)"
+          bgPosition="center"
+          bgRepeat="no-repeat"
+          w="80px"
+        />
     </div>
   );
 };

@@ -14,7 +14,7 @@ import { Link as ReactRouterLink } from "react-router-dom";
 const Logo = (props) => {
   return (
     <Box {...props}>
-      <Img h="50px" src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/navbarlogo.png?raw=true" alt="GrowGreen" />
+      <Img h="50px" rounded="10px" src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/navbarlogo.png?raw=true" alt="GrowGreen" />
     </Box>
   );
 };
@@ -79,27 +79,31 @@ const MenuLinks = ({ isOpen }) => {
       flexBasis={{ base: "100%", md: "auto" }}
     >
       <Stack
-        spacing={10}
+        spacing={12}
         align="center"
         justify={["center", "space-between", "flex-end", "flex-end"]}
         direction={["column", "row", "row", "row"]}
         pt={[4, 4, 0, 0]}
       >
-        <MenuItem component="hero">Home</MenuItem>
+        <MenuItem component="home">Home</MenuItem>
         <MenuItem component="about">About </MenuItem>
         <MenuItem component="services">Services </MenuItem>
-        <MenuItem component="Products">Products </MenuItem>
-        <MenuItem component="event">
+        <MenuItem component="products">Products </MenuItem>
+        <MenuItem component="contact">Contact</MenuItem>
+        <MenuItem component="nearby">Wander</MenuItem>
+        <MenuItem component="">
           <Button
+            leftIcon={<DragHandleIcon/>}
             size="sm"
             rounded="md"
-            color="white"
-            bg="#94BDA5"
-            _hover={{
-              bg: ["primary.100", "primary.100", "primary.600", "primary.600"],
+            color="#013870"
+            bg= "linear-gradient(20deg, #01E08F, #1B7340);"
+            _hover= {{
+              color : "#013870",
+              bg : "white"
             }}
           >
-            <DragHandleIcon w={6} h={3} color="#1B7340" />Log In
+            Log In
           </Button>
         </MenuItem>
       </Stack>
@@ -120,7 +124,7 @@ const NavBarContainer = ({ children, ...props }) => {
       zIndex="100"
       // mb={8}
       p={2}
-      bg="#1B7340"
+      bg="#013870"
       color="white"
       {...props}
     >
