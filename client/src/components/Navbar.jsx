@@ -1,4 +1,5 @@
 import React from "react";
+import { DragHandleIcon } from '@chakra-ui/icons';
 import {
   Link as ChakraLink,
   Box,
@@ -6,15 +7,14 @@ import {
   Text,
   Button,
   Stack,
+  Img,
 } from "@chakra-ui/react";
 import { Link as ReactRouterLink } from "react-router-dom";
 
 const Logo = (props) => {
   return (
     <Box {...props}>
-      <Text fontSize="lg" fontWeight="bold">
-        Grow Green
-      </Text>
+      <Img src="" alt="GrowGreen" />
     </Box>
   );
 };
@@ -47,7 +47,6 @@ const MenuIcon = () => (
   <svg
     width="24px"
     viewBox="0 0 20 20"
-    xmlns="http://www.w3.org/2000/svg"
     fill="white"
   >
     <title>Menu</title>
@@ -80,7 +79,7 @@ const MenuLinks = ({ isOpen }) => {
       flexBasis={{ base: "100%", md: "auto" }}
     >
       <Stack
-        spacing={8}
+        spacing={10}
         align="center"
         justify={["center", "space-between", "flex-end", "flex-end"]}
         direction={["column", "row", "row", "row"]}
@@ -88,19 +87,19 @@ const MenuLinks = ({ isOpen }) => {
       >
         <MenuItem component="hero">Home</MenuItem>
         <MenuItem component="about">About </MenuItem>
-        <MenuItem component="tracks">Tracks </MenuItem>
-        <MenuItem component="schedule">Schedule </MenuItem>
+        <MenuItem component="services">Services </MenuItem>
+        <MenuItem component="Products">Products </MenuItem>
         <MenuItem component="event">
           <Button
             size="sm"
             rounded="md"
-            color="primary.500"
-            bg="white"
+            color="white"
+            bg="#94BDA5"
             _hover={{
               bg: ["primary.100", "primary.100", "primary.600", "primary.600"],
             }}
           >
-            Join the event
+            <DragHandleIcon w={6} h={3} color="#1B7340" />Log In
           </Button>
         </MenuItem>
       </Stack>
@@ -121,7 +120,7 @@ const NavBarContainer = ({ children, ...props }) => {
       zIndex="100"
       // mb={8}
       p={4}
-      bg="primary.500"
+      bg="#1B7340"
       color="white"
       {...props}
     >
