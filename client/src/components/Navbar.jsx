@@ -14,7 +14,7 @@ import { Link as ReactRouterLink } from "react-router-dom";
 const Logo = (props) => {
   return (
     <Box {...props}>
-      <Img src="" alt="GrowGreen" />
+      <Img h="50px" src="https://github.com/dscigdtuw/GrowGreen/blob/main/images/navbarlogo.png?raw=true" alt="GrowGreen" />
     </Box>
   );
 };
@@ -119,7 +119,7 @@ const NavBarContainer = ({ children, ...props }) => {
       w="100%"
       zIndex="100"
       // mb={8}
-      p={4}
+      p={2}
       bg="#1B7340"
       color="white"
       {...props}

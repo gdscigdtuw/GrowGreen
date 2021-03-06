@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { Flex, Text } from "@chakra-ui/react";
+import { Box, Flex, Text } from "@chakra-ui/react";
 const Home = () => {
-  const [name, setName] = useState("not set");
+  const [name, setName] = useState("Be a Dendrophile");
   useEffect(() => {
     axios
       .get("/api")
@@ -16,9 +16,13 @@ const Home = () => {
         width="100%"
         align="center"
         justify="center"
-        bg="blue.400"
         color="white"
       >
+        <Box>
+        backgroundImage="url('..../images/bgimg')
+        backgroundPosition="center"
+        backgroundRepeat="no-repeat"
+        </Box>
         <Text fontSize="3xl">{name}</Text>
       </Flex>
     </div>
